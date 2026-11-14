@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+generator/output/
+generator/voices/*.wav
+*.egg-info/
+
+# Flutter
+app/.dart_tool/
+app/build/

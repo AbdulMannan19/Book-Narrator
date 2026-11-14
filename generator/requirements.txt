@@ -1,0 +1,8 @@
+# Install order matters on RTX 50-series (Blackwell): see README.md
+chatterbox-tts
+pymupdf
+ebooklib
+beautifulsoup4
+lxml
+pysbd
+tqdm
